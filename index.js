@@ -17,8 +17,7 @@ class Telbiz {
         "News": "News",
         "Promotion": "Promotion",
         "OTP": "OTP",
-        "Info": "Info",
-        "Unknown": "Unknown",
+        "Info": "Info"
     }
 
     constructor(ClientID, Secret) {
